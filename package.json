@@ -1,0 +1,14 @@
+{
+  "author": "Miguel",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "description": "ejercicio de node.js",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ejercicio-node",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "1.0.0"
+}
